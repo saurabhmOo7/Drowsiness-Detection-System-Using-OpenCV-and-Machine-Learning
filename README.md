@@ -1,7 +1,7 @@
 # Drowsiness-Detection-System-Using-OpenCV-and-Machine-Learning
 Real-time drowsiness detection system using computer vision techniques that tracks eye aspect ratio (EAR) to identify drowsiness in drivers and triggers an alert. Built using Python, OpenCV, and Dli
 
-[![License: Saurabh mallik](https://github.com/saurabhmOo7)](LICENSE)
+
 
 ## 📌 Overview
 This project implements a real-time driver **drowsiness detection system** using **facial landmarks** and **eye aspect ratio (EAR)**. It detects prolonged eye closure and triggers an audible alarm to alert the driver.
