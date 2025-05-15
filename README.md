@@ -37,21 +37,6 @@ This project implements a real-time driver **drowsiness detection system** using
    - Long closures = Drowsiness.
 5. **Alarm Sound**: Plays alarm (`alarm.wav`) when prolonged eye closure is detected.
 
----
-
-## 📊 Visual Explanation
-
-### 🔘 Eye Aspect Ratio (EAR)
-![EAR](eye_aspect_ratio.PNG)
-
-### 👁️ Eye Landmarks
-![Eye Points](eye.PNG)
-
-### 🔍 Face Landmarks
-![Face Landmarks](face.PNG)
-
----
-
 ## 🚀 Installation and Run
 
 ### 🔧 Requirements
